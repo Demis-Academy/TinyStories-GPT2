@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data
+data/
+*.csv
+*.xlsx
+*.parquet
+*.json
+
+# Hugging Face
+.cache/
+*.safetensors
+*.bin
+
+# Models
+models/
+checkpoints/
